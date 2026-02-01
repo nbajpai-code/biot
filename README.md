@@ -131,6 +131,18 @@ Biotechnology merges biology with technology to improve healthcare, agriculture,
 ---
 
 ## Recent Research Feed
+### 🆕 Latest q-bio Research (2026-02-01)
+- **[Computational investigation of single herbal drugs in Ayurveda for diabetes and obesity using knowledge graph and network pharmacology](http://arxiv.org/abs/2601.21643v1)** (2026-01-29)
+  > *Metabolic diseases such as type 2 diabetes and obesity represent a rapidly escalating global health burden, yet current therapeutic strategies largely target isolated symptoms or single molecular path...*
+- **[Multiple binding modes of AKT on PIP$_3$-containing membranes](http://arxiv.org/abs/2601.21216v1)** (2026-01-29)
+  > *The PI3K/AKT signaling pathway is triggered by recruitment of AKT to cellular membranes. Although AKT is a multidomain serine/threonine kinase composed of an N-terminal pleckstrin homology (PH) domain...*
+- **[WFR-MFM: One-Step Inference for Dynamic Unbalanced Optimal Transport](http://arxiv.org/abs/2601.20606v1)** (2026-01-28)
+  > *Reconstructing dynamical evolution from limited observations is a fundamental challenge in single-cell biology, where dynamic unbalanced optimal transport provides a principled framework for modeling ...*
+- **[Control systems for synthetic biology and a case-study in cell fate reprogramming](http://arxiv.org/abs/2601.20135v1)** (2026-01-27)
+  > *This paper gives an overview of the use of control systems engineering in synthetic biology, motivated by applications such as cell therapy and cell fate reprogramming for regenerative medicine. A ubi...*
+- **[GenPairX: A Hardware-Algorithm Co-Designed Accelerator for Paired-End Read Mapping](http://arxiv.org/abs/2601.19384v1)** (2026-01-27)
+  > *Genome sequencing has become a central focus in computational biology. A genome study typically begins with sequencing, which produces millions to billions of short DNA fragments known as reads. Read ...*
+
 
 ### 🆕 Latest q-bio Research (2026-01-05)
 - **[Evolutionary and Structural Constraints Define a Mutation-Resistant Catalytic Core in E. coli Serine Hydroxy methyltransferase (SHMT)](http://arxiv.org/abs/2601.00769v1)** (2026-01-02)
