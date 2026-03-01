@@ -131,6 +131,18 @@ Biotechnology merges biology with technology to improve healthcare, agriculture,
 ---
 
 ## Recent Research Feed
+### 🆕 Latest q-bio Research (2026-03-01)
+- **[Induction Meets Biology: Mechanisms of Repeat Detection in Protein Language Models](http://arxiv.org/abs/2602.23179v1)** (2026-02-26)
+  > *Protein sequences are abundant in repeating segments, both as exact copies and as approximate segments with mutations. These repeats are important for protein structure and function, motivating decade...*
+- **[BEDCrypt: Privacy-preserving interval analytics with homomorphic encryption](http://arxiv.org/abs/2602.21994v1)** (2026-02-25)
+  > *Motivation. Genomic data and derived interval datasets can carry sensitive information, and the analysis itself can reveal an analyst's intent. As genomic workloads are increasingly outsourced to thir...*
+- **[Prediction of source nutrients for microorganisms using metabolic networks](http://arxiv.org/abs/2602.21993v1)** (2026-02-25)
+  > *Metagenomics has lowered the barrier to microbial discovery--enabling the identification of novel microbes without isolation--but cultures remain imperative for the deep study of microbes. Cultivation...*
+- **[What Topological and Geometric Structure Do Biological Foundation Models Learn? Evidence from 141 Hypotheses](http://arxiv.org/abs/2602.22289v1)** (2026-02-25)
+  > *When biological foundation models such as scGPT and Geneformer process single-cell gene expression, what geometric and topological structure forms in their internal representations? Is that structure ...*
+- **[From quantitative modeling of fluorescence experiments on biomolecules to the prediction of spectroscopic dye properties](http://arxiv.org/abs/2602.21931v1)** (2026-02-25)
+  > *Fluorescence spectroscopy and modeling provide powerful means to characterize biomacromolecular structures, dynamics, and interactions. Förster resonance energy transfer serves as a key technique for ...*
+
 ### 🆕 Latest q-bio Research (2026-02-01)
 - **[Computational investigation of single herbal drugs in Ayurveda for diabetes and obesity using knowledge graph and network pharmacology](http://arxiv.org/abs/2601.21643v1)** (2026-01-29)
   > *Metabolic diseases such as type 2 diabetes and obesity represent a rapidly escalating global health burden, yet current therapeutic strategies largely target isolated symptoms or single molecular path...*
