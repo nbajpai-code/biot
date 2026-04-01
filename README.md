@@ -131,6 +131,18 @@ Biotechnology merges biology with technology to improve healthcare, agriculture,
 ---
 
 ## Recent Research Feed
+### 🆕 Latest q-bio Research (2026-04-01)
+- **[Latent-Y: A Lab-Validated Autonomous Agent for De Novo Drug Design](http://arxiv.org/abs/2603.29727v1)** (2026-03-31)
+  > *Drug discovery relies on iterative expert workflows that are slow to parallelize and difficult to scale. Here we introduce Latent-Y, an AI agent that autonomously executes complete antibody design cam...*
+- **[Sampling from the Solution Space and Metabolic Environments of Genome-Scale Metabolic Models](http://arxiv.org/abs/2603.29546v1)** (2026-03-31)
+  > *Flux sampling is an analysis that, based on a distribution, picks randomly an efficient number of points from the solution space of a metabolic model. Unlike most constraint-based analyses, flux sampl...*
+- **[Sampling at intermediate temperatures is optimal for training large language models in protein structure prediction](http://arxiv.org/abs/2603.29529v1)** (2026-03-31)
+  > *We investigate the parameter space of transformer models trained on protein sequence data using a statistical mechanics framework, sampling the loss landscape at varying temperatures by Langevin dynam...*
+- **[Poisoning the Genome: Targeted Backdoor Attacks on DNA Foundation Models](http://arxiv.org/abs/2603.27465v1)** (2026-03-29)
+  > *Genomic foundation models trained on DNA sequences have demonstrated remarkable capabilities across diverse biological tasks, from variant effect prediction to genome design. These models are typicall...*
+- **[Pan-Cancer Mapping of the Tumor Immune Landscape through Metagene Clustering and Predictive Modeling](http://arxiv.org/abs/2603.27145v1)** (2026-03-28)
+  > *As immunotherapies become standard cancer treatments, it is increasingly important to identify a patient's immune profile, which encompasses the activity of immune cells within the tumor microenvironm...*
+
 ### 🆕 Latest q-bio Research (2026-03-01)
 - **[Induction Meets Biology: Mechanisms of Repeat Detection in Protein Language Models](http://arxiv.org/abs/2602.23179v1)** (2026-02-26)
   > *Protein sequences are abundant in repeating segments, both as exact copies and as approximate segments with mutations. These repeats are important for protein structure and function, motivating decade...*
