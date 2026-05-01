@@ -131,6 +131,18 @@ Biotechnology merges biology with technology to improve healthcare, agriculture,
 ---
 
 ## Recent Research Feed
+### 🆕 Latest q-bio Research (2026-05-01)
+- **[Complex Effects of Salt on Small-Angle X-ray Scattering of BSA Originate From the Interplay of Ions and Hydration Water](http://arxiv.org/abs/2604.27913v1)** (2026-04-30)
+  > *Salts are an integral part of the environment for living systems and, therefore, understanding their effects on proteins and other biomolecules is of fundamental interest. Small-angle X-ray scattering...*
+- **[Hyper Input Convex Neural Networks for Shape Constrained Learning and Optimal Transport](http://arxiv.org/abs/2604.26942v1)** (2026-04-29)
+  > *We introduce Hyper Input Convex Neural Networks (HyCNNs), a novel neural network architecture designed for learning convex functions. HyCNNs combine the principles of Maxout networks with input convex...*
+- **[Parsimonious computational inference protocol for Boolean networks: Application to osteogenesis](http://arxiv.org/abs/2604.26700v1)** (2026-04-29)
+  > *Boolean networks are powerful mathematical tools for modeling the qualitative dynamics of genetic regulation. Yet inferred models often generate spurious attractors that lack biological viability. In ...*
+- **[Robust Clustering Analysis of Genes Related to Age-related Macular Degeneration using RNA-Seq](http://arxiv.org/abs/2604.25986v1)** (2026-04-28)
+  > *Identifying genes associated with diseases is crucial to understanding disease mechanisms and developing therapies. However, identification of individual genes associated with a disease often needs to...*
+- **[Bayesian Rate Inference for Sequence Motif Dynamics in Systems of Reactive Nucleic Acids](http://arxiv.org/abs/2604.25701v1)** (2026-04-28)
+  > *The RNA world hypothesis suggests a pathway of how life emerged on early earth. It assumes that life started with RNA based systems, capable of storing, transmitting and replicating information, envis...*
+
 ### 🆕 Latest q-bio Research (2026-04-01)
 - **[Latent-Y: A Lab-Validated Autonomous Agent for De Novo Drug Design](http://arxiv.org/abs/2603.29727v1)** (2026-03-31)
   > *Drug discovery relies on iterative expert workflows that are slow to parallelize and difficult to scale. Here we introduce Latent-Y, an AI agent that autonomously executes complete antibody design cam...*
