@@ -131,6 +131,18 @@ Biotechnology merges biology with technology to improve healthcare, agriculture,
 ---
 
 ## Recent Research Feed
+### 🆕 Latest q-bio Research (2026-06-01)
+- **[Chem-PerturBridge: a harmonized compendium of small molecule perturbation transcriptomic effects](http://arxiv.org/abs/2605.31522v1)** (2026-05-29)
+  > *Large perturbation models require training data encompassing chemical, cellular, and assay diversity. Current transcriptomic resources for small-molecule modeling, however, are fragmented across techn...*
+- **[Scalable Inference-Time Annealing with Surrogate Likelihood Estimators](http://arxiv.org/abs/2605.31498v1)** (2026-05-29)
+  > *A long standing challenge in computational chemistry and biophysics is efficiently sampling the Boltzmann distribution of molecules. Advances in generative modeling have been proposed to address the l...*
+- **[mRNAutilus: Multi-Objective-Guided Discrete Generation of mRNA with Optimized Therapeutic Properties](http://arxiv.org/abs/2605.31296v1)** (2026-05-29)
+  > *Therapeutic mRNA design requires coordinating multiple interacting sequence features across the full transcript, where codon usage, untranslated regions (UTRs), and their coupling jointly determine st...*
+- **[SwitchCraft: A Programmatic Framework for Designing State-Switching Proteins](http://arxiv.org/abs/2605.31236v1)** (2026-05-29)
+  > *Multistate mechanisms underlie many of the complex functions observed in natural proteins. The ability to rationally design multistate proteins would have transformative implications for many areas of...*
+- **[AMix-2: Establishing Protein as a Native Modality in Large Language Models](http://arxiv.org/abs/2605.30963v1)** (2026-05-29)
+  > *We present AMix-2, a protein-text foundation model that establishes protein as a native modality in large language models (LLMs), unifying protein understanding and sequence design within a single fou...*
+
 ### 🆕 Latest q-bio Research (2026-05-01)
 - **[Complex Effects of Salt on Small-Angle X-ray Scattering of BSA Originate From the Interplay of Ions and Hydration Water](http://arxiv.org/abs/2604.27913v1)** (2026-04-30)
   > *Salts are an integral part of the environment for living systems and, therefore, understanding their effects on proteins and other biomolecules is of fundamental interest. Small-angle X-ray scattering...*
