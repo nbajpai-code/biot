@@ -66,7 +66,7 @@ Biotechnology merges biology with technology to improve healthcare, agriculture,
 - **BioBricks:** Standardized DNA sequences for assembling biological circuits.
 
 ### Tools
-- **[TinkerCell](http://www.tinkercell.com/):** CAD for synthetic biology.
+- **TinkerCell (project discontinued — site no longer resolves):** CAD for synthetic biology. Replacement read: [The smallest genome ever found — the blueprint minimal-genome engineers chase](https://calder-brief.pages.dev/sukunaarchaeum-smallest-genome.html).
 - **[Benchling](https://www.benchling.com/):** Cloud-based platform for life science R&D (electronic lab notebook + molecular biology suite).
 
 ### Key Players
